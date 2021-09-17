@@ -16,5 +16,7 @@ Obsahuje **zatím**:
 | **Změna**   | **popis**        |
 |---------|--------------|
 | 16.9.21 | vytvořeno    |
-| 17.9.21 | přidáno infi |
-|         |              |
+| 17.9.21 | přidáno info |
+
+* <html></html>
+* <p></p>
