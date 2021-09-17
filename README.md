@@ -11,7 +11,7 @@ Obsahuje **zatím**:
 
 * ja jsem si tady pripravil tag ``<html></html>``
 
-[Odkaz na info](info.html)
+[Odkaz na info](https://pslib-cz.github.io/2021l4web-repository-skills-vanaondrej/info.html)
 
 | **Změna**   | **popis**        |
 |---------|--------------|
@@ -22,7 +22,7 @@ Obsahuje **zatím**:
 
 ``<p></p>``
  * lol
- 
+
 ```
  <!DOCTYPE html>
 <html lang="en">
