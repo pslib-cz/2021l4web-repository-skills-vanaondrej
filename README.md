@@ -11,4 +11,4 @@ Obsahuje **zatím**:
 
 * ja jsem si tady pripravil tag ``<html></html>``
 
-[Odkaz na info](../info.html)
+[Odkaz na info](info.html)
